@@ -1,1 +1,1 @@
-# hello
+# learning C C++ CMake
