@@ -1,7 +1,7 @@
-.vscode
-./bin
-./CMakeFiles
-./Testing
+bin
+build
+CMakeFiles
+Testing
 *.cmake
 CMakeCache.txt
 DartConfiguration.tcl
