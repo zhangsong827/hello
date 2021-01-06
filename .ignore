@@ -1,0 +1,8 @@
+.vscode
+./bin
+./CMakeFiles
+./Testing
+*.cmake
+CMakeCache.txt
+DartConfiguration.tcl
+Makefile
